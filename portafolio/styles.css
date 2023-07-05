@@ -1,0 +1,28 @@
+body{
+    margin: 20px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.form-signin {
+    max-width: 330px;
+    padding: 1rem;
+}
+
+.m-auto {
+    margin: auto!important;
+}
+
+.py-4 {
+    padding-top: 1.5rem!important;
+    padding-bottom: 1.5rem!important;
+}
+
+.d-flex {
+    display: flex!important;
+}
+
+html, body {
+    height: 100%;
+    
+}
